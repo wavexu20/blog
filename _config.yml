@@ -1,8 +1,8 @@
-name: "rusty shutter"
+name: "雪鸮"
 permalink: /:year/:month/:day/:title.html
 
-author: "wayne"
-atom-baseurl: "http://lhzhang.com"
+author: "wavexu"
+atom-baseurl: "https://wavexu.cn"
 disqus: "gopherwood"
 
 navigations:
@@ -15,12 +15,6 @@ navigations:
   - title: About
     class: fas fa-user
     href: /about.html
-  - title: Osara
-    class: far fa-dot-circle
-    href: https://osara.lhzhang.com
-  - title: Gallery
-    class: fas fa-film
-    href: http://foto.lhzhang.com
   - title: Subscribe
     class: fas fa-rss
     href: /atom.xml

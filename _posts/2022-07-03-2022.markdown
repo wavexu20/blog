@@ -1,0 +1,12 @@
+---
+title: 开端
+layout: post
+guid: urn:uuid:d79832ae-e7b6-4ce0-956e-470b8f6e4e51
+tags:
+  - photography
+  - begin
+---
+
+![mountain](/media/files/2022/07/03/mountain.jpg)
+
+本来想出了所有胶片机器，结果不小心遇到了心仪的 Rolleiflex。
